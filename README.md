@@ -50,19 +50,20 @@ node server.js
 ```
 
 # Project Links:
-[Video Directory](https://github.com/momentes/13-E-Commerce-BackEnd/tree/main/Video)
+[Video Directory](https://github.com/momentes/13-E-Commerce-BackEnd/tree/main/video)
 
 **Video Link**
-[Video Link 1](https://drive.google.com/file/d/1ePPgXHo8SggwAV_CKqDJBzJZt4ZYyxPF/view?usp=sharing)
+Forgotten to record the mySQL database schema, shell and start application prior to to testing. Re-recorded as a seperate video
+[Video Link 1-Backend Server](https://drive.google.com/file/d/1mPidcenrfzXX84l5fr-uMoQ-P49S5EcE/view?usp=sharing)
 
-[Video Link 2](https://drive.google.com/file/d/1ePPgXHo8SggwAV_CKqDJBzJZt4ZYyxPF/view?usp=sharing)
+[Video Link 2-Insomnia Testing](https://drive.google.com/file/d/1kZtGgHeS_AheTfO7P77Ih0gTqXQuBMFE/view?usp=sharing)
 
 **Repo Link**
 https://github.com/momentes/13-E-Commerce-BackEnd
 
 **Screenshot**
 
-<img src="/lib/assets/images/1.png" width=85%>
+<img src="/images/E-Commerce-BackEnd-Screenshot.png.png" width=85%>
 
 
 # License
@@ -73,4 +74,4 @@ https://github.com/momentes/13-E-Commerce-BackEnd
 
 Thank you
 End.        
-<img src="/lib/assets/images/business-cat1.jpg" width=15%>
+<img src="/images/business-cat1.jpg.jpg" width=15%>
