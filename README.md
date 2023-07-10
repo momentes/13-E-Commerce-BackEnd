@@ -63,7 +63,7 @@ https://github.com/momentes/13-E-Commerce-BackEnd
 
 **Screenshot**
 
-<img src="/images/E-Commerce-BackEnd-Screenshot.png.png" width=85%>
+<img src="/images/E-Commerce-BackEnd-Screenshot.png" width=85%>
 
 
 # License
@@ -74,4 +74,4 @@ https://github.com/momentes/13-E-Commerce-BackEnd
 
 Thank you
 End.        
-<img src="/images/business-cat1.jpg.jpg" width=15%>
+<img src="/images/business-cat1.jpg" width=15%>
