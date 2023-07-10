@@ -53,7 +53,7 @@ node server.js
 [Video Directory](https://github.com/momentes/13-E-Commerce-BackEnd/tree/main/video)
 
 **Video Link**
-Forgotten to record the mySQL database schema, shell and start application prior to to testing. Re-recorded as a seperate video
+Forgotten to record the mySQL database schema, shell and start application prior to to testing. Re-recorded as a separate video
 [Video Link 1-Backend Server](https://drive.google.com/file/d/1mPidcenrfzXX84l5fr-uMoQ-P49S5EcE/view?usp=sharing)
 
 [Video Link 2-Insomnia Testing](https://drive.google.com/file/d/1kZtGgHeS_AheTfO7P77Ih0gTqXQuBMFE/view?usp=sharing)
