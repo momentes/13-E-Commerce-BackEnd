@@ -20,3 +20,57 @@ The challenge is to build the back end for an e-commerce site. You’ll take a w
 THEN the data for each of these routes is displayed in a formatted JSON
 - WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 - THEN I am able to successfully create, update, and delete data in my database
+
+# Installation
+
+run
+
+```
+mysql source schema.sql
+```
+
+on mysql server
+
+```
+npm install
+```
+
+on the root folder.
+
+run
+
+```
+node seeds/index.js
+```
+
+to seed some data. Then run
+
+```
+node server.js
+```
+
+# Project Links:
+[Video Directory](https://github.com/momentes/13-E-Commerce-BackEnd/tree/main/Video)
+
+**Video Link**
+[Video Link 1](https://drive.google.com/file/d/1ePPgXHo8SggwAV_CKqDJBzJZt4ZYyxPF/view?usp=sharing)
+
+[Video Link 2](https://drive.google.com/file/d/1ePPgXHo8SggwAV_CKqDJBzJZt4ZYyxPF/view?usp=sharing)
+
+**Repo Link**
+https://github.com/momentes/13-E-Commerce-BackEnd
+
+**Screenshot**
+
+<img src="/lib/assets/images/1.png" width=85%>
+
+
+# License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+<a href = "https://opensource.org/licenses/MIT">License Link</a>
+<a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
+
+Thank you
+End.        
+<img src="/lib/assets/images/business-cat1.jpg" width=15%>
